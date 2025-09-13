@@ -1,0 +1,22 @@
+<?php
+return [
+    'Home' => 'Home',
+    'Login' => 'Login',
+    'Register' => 'Register',
+    'Logout' => 'Logout',
+    'Admin Panel' => 'Admin Panel',
+    'Recent Posts' => 'Recent Posts',
+    'Categories' => 'Categories',
+    'All' => 'All',
+    'Comments' => 'Comments',
+    'No comments yet.' => 'No comments yet.',
+    'Your Name' => 'Your Name',
+    'Comment' => 'Comment',
+    'Post Comment' => 'Post Comment',
+    'Posts' => 'Posts',
+    'Create New Post' => 'Create New Post',
+    'Edit' => 'Edit',
+    'Delete' => 'Delete',
+    'Unpublished' => 'Unpublished',
+    'Comment added successfully.' => 'Comment added successfully.',
+];

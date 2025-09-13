@@ -1,0 +1,22 @@
+<?php
+return [
+    'Admin_Categories' => 'إدارة التصنيفات',
+    'Categories' => 'التصنيفات',
+    'Create_New_Category' => 'إنشاء تصنيف جديد',
+    'Create_Category' => 'إنشاء تصنيف',
+    'Edit_Category' => 'تعديل التصنيف',
+    'Name' => 'الاسم',
+    'Post_Count' => 'عدد المقالات',
+    'Actions' => 'الإجراءات',
+    'Create' => 'إنشاء',
+    'Update' => 'تحديث',
+    'Cancel' => 'إلغاء',
+    'Edit' => 'تعديل',
+    'Delete' => 'حذف',
+    'Confirm_Delete' => 'هل أنت متأكد من حذف هذا التصنيف؟',
+    'Manage_Categories' => 'إدارةالتصنيفات',
+    'Category_created' => 'تم إنشاء التصنيف بنجاح.',
+    'Category_updated' => 'تم تحديث التصنيف بنجاح.',
+    'Category_deleted' => 'تم حذف التصنيف بنجاح.',
+    'Category_has_posts' => 'لا يمكن حذف التصنيف لوجود مقالات مرتبطة به.',
+];
